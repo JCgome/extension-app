@@ -1,8 +1,8 @@
 import { useState } from "react";
-import Logo from "../assets/images/logo.svg";
-import LogoDark from "../assets/images/logo-dark.svg";
-import LightIcon from "../assets/images/icon-sun.svg";
-import DarkIcon from "../assets/images/icon-moon.svg";
+import Logo from "/public/images/logo.svg";
+import LogoDark from "/public/images/logo-dark.svg";
+import LightIcon from "/public/images/icon-sun.svg";
+import DarkIcon from "/public/images/icon-moon.svg";
 
 export const Header = () => {
   const [theme, setTheme] = useState("light");
