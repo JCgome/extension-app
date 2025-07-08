@@ -1,4 +1,4 @@
-![Vista previa de la app](/src/assets/images/logo.svg)
+![Vista previa de la app](/images/logo.svg)
 
 # Extension Manager – Frontend Mentor Challenge
 
